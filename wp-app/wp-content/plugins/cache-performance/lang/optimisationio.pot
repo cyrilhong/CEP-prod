@@ -1,0 +1,565 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Disable\n"
+"Report-Msgid-Bugs-To: http://flexiblemegamenu.com\n"
+"POT-Creation-Date: 2017-08-25 04:05+0200\n"
+"PO-Revision-Date: 2017-08-25 04:05+0200\n"
+"Last-Translator: _Language-Team:\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;esc_html_e;esc_html__;esc_attr_e;"
+"esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: cache/local-ga.js\n"
+
+#: lib/class-optimisationio-admin.php:125
+msgid "Cache Settings updated successfully"
+msgstr ""
+
+#: lib/class-optimisationio-admin.php:139
+msgid "CDN ReWrite Rules added"
+msgstr ""
+
+#: lib/class-optimisationio-admin.php:158
+msgid "Saved Gravatars cache settings"
+msgstr ""
+
+#: lib/class-optimisationio-admin.php:166
+#: lib/class-optimisationio-admin.php:169
+#: lib/class-optimisationio-admin.php:172
+#: lib/class-optimisationio-admin.php:177
+msgid "Performance Cache"
+msgstr ""
+
+#: lib/class-optimisationio-admin.php:175
+#: lib/class-optimisationio-stats-and-addons.php:30
+msgid "Optimisation.io"
+msgstr ""
+
+#: lib/class-optimisationio-admin.php:204
+#: lib/class-optimisationio-admin.php:206
+msgid "Clear Cache"
+msgstr ""
+
+#: lib/class-optimisationio-admin.php:218
+#: lib/class-optimisationio-admin.php:220
+msgid "Clear URL Cache"
+msgstr ""
+
+#: lib/class-optimisationio-admin.php:230
+msgid "Once Weekly"
+msgstr ""
+
+#: lib/class-optimisationio-admin.php:234
+#: lib/class-optimisationio-admin.php:238
+msgid "Once Daily"
+msgstr ""
+
+#: lib/class-optimisationio-admin.php:242
+msgid "Once Fortnightly"
+msgstr ""
+
+#: lib/class-optimisationio-cacheenabler.php:551
+msgid "Settings"
+msgstr ""
+
+#: lib/class-optimisationio-cacheenabler.php:600
+msgid "Disk Cache"
+msgstr ""
+
+#: lib/class-optimisationio-cacheenabler.php:601
+msgid "Empty"
+msgstr ""
+
+#: lib/class-optimisationio-cacheenabler.php:602
+msgid "Cache Size"
+msgstr ""
+
+#: lib/class-optimisationio-cacheenabler.php:737
+msgid "The cache has been cleared."
+msgstr ""
+
+#: lib/class-optimisationio-cacheenabler.php:1224
+msgid "Completely"
+msgstr ""
+
+#: lib/class-optimisationio-cacheenabler.php:1225
+msgid "Page specific"
+msgstr ""
+
+#: lib/class-optimisationio-cacheenabler.php:1250
+msgid "Clear cache"
+msgstr ""
+
+#: lib/class-optimisationio-cacheenabler.php:1252
+msgid "Edit"
+msgstr ""
+
+#: lib/class-optimisationio-cacheenabler.php:1254
+msgid "OK"
+msgstr ""
+
+#: lib/class-optimisationio-cacheenabler.php:1255
+msgid "Cancel"
+msgstr ""
+
+#: lib/class-optimisationio-cacheenabler.php:1299
+msgid "Disabled"
+msgstr ""
+
+#: lib/class-optimisationio-cacheenabler.php:1300
+msgid "HTML"
+msgstr ""
+
+#: lib/class-optimisationio-cacheenabler.php:1301
+msgid "HTML & Inline JS"
+msgstr ""
+
+#: lib/class-optimisationio-stats-and-addons.php:32
+msgid "Statistics"
+msgstr ""
+
+#: lib/class-optimisationio-stats-and-addons.php:36
+msgid "Import/Export"
+msgstr ""
+
+#: lib/class-optimisationio-stats-and-addons.php:218
+msgid "Invalid import arguments"
+msgstr ""
+
+#: lib/class-optimisationio-stats-and-addons.php:311
+msgid "Settings imported successfully"
+msgstr ""
+
+#: lib/class-optimisationio-stats-and-addons.php:315
+msgid "Imported invalid data"
+msgstr ""
+
+#: lib/class-optimisationio-stats-and-addons.php:333
+msgid "Invalid export arguments"
+msgstr ""
+
+#: lib/class-optimisationio-stats-and-addons.php:382
+msgid "Can't find saved data to export"
+msgstr ""
+
+#: lib/class-optimisationio-stats-and-addons.php:388
+msgid "Failed data verification"
+msgstr ""
+
+#: lib/class-optimisationio-stats-and-addons.php:416
+msgid "Improve WordPress performance by disabling unused items."
+msgstr ""
+
+#: lib/class-optimisationio-stats-and-addons.php:417
+msgid "Simple efficient WordPress caching."
+msgstr ""
+
+#: lib/class-optimisationio-stats-and-addons.php:418
+msgid "Image Compression and resizing - Setup under the Tools menu"
+msgstr ""
+
+#: lib/class-optimisationio-stats-and-addons.php:515
+#: views/optimisationio-statistics-addons.php:3
+msgid "n/a"
+msgstr ""
+
+#: views/header.php:20
+msgid "Cache and CDN Performance"
+msgstr ""
+
+#: views/header.php:21
+msgid "Simple, effective Caching Plugin"
+msgstr ""
+
+#: views/header.php:23
+msgid "Help us build a better product"
+msgstr ""
+
+#: views/header.php:24
+msgid "Rate us on WordPress.org"
+msgstr ""
+
+#: views/header.php:36
+msgid "Caching"
+msgstr ""
+
+#: views/header.php:40
+msgid "CDN Rewrite"
+msgstr ""
+
+#: views/header.php:44
+msgid "Optimise DB"
+msgstr ""
+
+#: views/header.php:49
+msgid "Gravatars"
+msgstr ""
+
+#: views/optimisationio-import-export.php:3
+#, php-format
+msgid "%1$s Optimisation.io - Import/Export add-ons settings %2$s"
+msgstr ""
+
+#: views/optimisationio-import-export.php:16
+msgid "Import"
+msgstr ""
+
+#: views/optimisationio-import-export.php:17
+msgid "Export"
+msgstr ""
+
+#: views/optimisationio-import-export.php:24
+msgid ""
+"Copy into textarea the encoded string of add-ons settings you have exported"
+msgstr ""
+
+#: views/optimisationio-import-export.php:30
+msgid ""
+"Select the add-οns whose settings you want to include in the exported data"
+msgstr ""
+
+#: views/optimisationio-import-export.php:42
+msgid "Import settings"
+msgstr ""
+
+#: views/optimisationio-import-export.php:43
+msgid "Export current settings"
+msgstr ""
+
+#: views/optimisationio-import-export.php:45
+msgid "Clear"
+msgstr ""
+
+#: views/optimisationio-import-export.php:46
+msgid "Copy to clipboard"
+msgstr ""
+
+#: views/optimisationio-import-export.php:216
+msgid "Exported settings copied to clipboard"
+msgstr ""
+
+#: views/optimisationio-statistics-addons.php:4
+msgid "Install"
+msgstr ""
+
+#: views/optimisationio-statistics-addons.php:5
+msgid "Activate"
+msgstr ""
+
+#: views/optimisationio-statistics-addons.php:6
+msgid "Deactivate"
+msgstr ""
+
+#: views/optimisationio-statistics-addons.php:7
+#, php-format
+msgid "%1$s Optimisation.io %2$s"
+msgstr ""
+
+#: views/optimisationio-statistics-addons.php:8
+msgid "Changes you made may not be saved."
+msgstr ""
+
+#: views/optimisationio-statistics-addons.php:42
+msgid "Request manual optimisation"
+msgstr ""
+
+#: views/optimisationio-statistics-addons.php:45
+msgid "Support"
+msgstr ""
+
+#: views/optimisationio-statistics-addons.php:55
+msgid "External requests saved"
+msgstr ""
+
+#: views/optimisationio-statistics-addons.php:62
+msgid "Pages average load time"
+msgstr ""
+
+#: views/optimisationio-statistics-addons.php:66
+msgid "Cache size"
+msgstr ""
+
+#: views/optimisationio-statistics-addons.php:70
+msgid "Database size"
+msgstr ""
+
+#: views/optimisationio-statistics-addons.php:74
+msgid "Database before cleanups"
+msgstr ""
+
+#: views/optimisationio-statistics-addons.php:78
+msgid "Database size saved"
+msgstr ""
+
+#: views/optimisationio-statistics-addons.php:82
+msgid "Gravatars cache"
+msgstr ""
+
+#: views/optimisationio-statistics-addons.php:89
+msgid "Compressed images"
+msgstr ""
+
+#: views/optimisationio-statistics-addons.php:93
+msgid "Size saved"
+msgstr ""
+
+#: views/optimisationio-statistics-addons.php:101
+msgid "Disable"
+msgstr ""
+
+#: views/optimisationio-statistics-addons.php:102
+msgid "Images"
+msgstr ""
+
+#: views/optimisationio-statistics-addons.php:103
+msgid "Cache"
+msgstr ""
+
+#: views/sidebar.php:4
+msgid "Current Cached Files Size"
+msgstr ""
+
+#: views/sidebar.php:8
+#, php-format
+msgid "Add a CDN for even better performance or %1$suse ours%2$s."
+msgstr ""
+
+#: views/sidebar.php:15
+msgid "Database Stats"
+msgstr ""
+
+#: views/sidebar.php:18
+msgid "Original Size"
+msgstr ""
+
+#: views/sidebar.php:19
+msgid "Optimised Size"
+msgstr ""
+
+#: views/sidebar.php:20
+msgid "Saving"
+msgstr ""
+
+#: views/sidebar.php:42
+msgid "Still Need Help ? We also do manual optimisations."
+msgstr ""
+
+#: views/tab-content-caching.php:15
+msgid "Cache Expiry"
+msgstr ""
+
+#: views/tab-content-caching.php:17
+msgid "0 = never expires. (Time in hours)"
+msgstr ""
+
+#: views/tab-content-caching.php:21
+msgid "Compress cache"
+msgstr ""
+
+#: views/tab-content-caching.php:21
+msgid "Disable if the you notice any weird issues in browser."
+msgstr ""
+
+#: views/tab-content-caching.php:29
+msgid "New Posts"
+msgstr ""
+
+#: views/tab-content-caching.php:29
+msgid "Wipe cache when you publish a new post."
+msgstr ""
+
+#: views/tab-content-caching.php:37
+msgid "Enable Gzip Compression"
+msgstr ""
+
+#: views/tab-content-caching.php:37
+msgid "Only on Apache servers."
+msgstr ""
+
+#: views/tab-content-caching.php:45
+msgid "Leverage browser caching"
+msgstr ""
+
+#: views/tab-content-caching.php:53
+msgid "New comments"
+msgstr ""
+
+#: views/tab-content-caching.php:53
+msgid "Wipe Cache when new comments posted."
+msgstr ""
+
+#: views/tab-content-caching.php:69
+msgid "Exclusions"
+msgstr ""
+
+#: views/tab-content-caching.php:71
+msgid "Post or Pages IDs separated by a"
+msgstr ""
+
+#: views/tab-content-cdn-rewrite.php:18
+msgid "CDN Path"
+msgstr ""
+
+#: views/tab-content-cdn-rewrite.php:23
+msgid "CSS CDN Path"
+msgstr ""
+
+#: views/tab-content-cdn-rewrite.php:28
+msgid "JS Files CDN Path"
+msgstr ""
+
+#: views/tab-content-cdn-rewrite.php:39
+msgid "Image and file extensions"
+msgstr ""
+
+#: views/tab-content-cdn-rewrite.php:44
+msgid "File Extensions for CSS"
+msgstr ""
+
+#: views/tab-content-cdn-rewrite.php:49
+msgid "File Extensions for JS"
+msgstr ""
+
+#: views/tab-content-gravatars-cache.php:4
+msgid "1 hour"
+msgstr ""
+
+#: views/tab-content-gravatars-cache.php:5
+msgid "2 hours"
+msgstr ""
+
+#: views/tab-content-gravatars-cache.php:6
+msgid "6 hours"
+msgstr ""
+
+#: views/tab-content-gravatars-cache.php:7
+msgid "12 hours"
+msgstr ""
+
+#: views/tab-content-gravatars-cache.php:8
+msgid "1 day"
+msgstr ""
+
+#: views/tab-content-gravatars-cache.php:9
+msgid "2 days"
+msgstr ""
+
+#: views/tab-content-gravatars-cache.php:10
+msgid "1 week"
+msgstr ""
+
+#: views/tab-content-gravatars-cache.php:11
+msgid "2 weeks"
+msgstr ""
+
+#: views/tab-content-gravatars-cache.php:12
+msgid "1 month"
+msgstr ""
+
+#: views/tab-content-gravatars-cache.php:28
+msgid "Cache Gravatars"
+msgstr ""
+
+#: views/tab-content-gravatars-cache.php:31
+msgid "Enable cache"
+msgstr ""
+
+#: views/tab-content-gravatars-cache.php:31
+msgid "Keep in server a copy of Gravatars"
+msgstr ""
+
+#: views/tab-content-gravatars-cache.php:39
+msgid "Keep cache fresh for"
+msgstr ""
+
+#: views/tab-content-gravatars-cache.php:53
+msgid "gravatars found in cache"
+msgstr ""
+
+#: views/tab-content-gravatars-cache.php:54
+msgid "Clear now"
+msgstr ""
+
+#: views/tab-content-gravatars-cache.php:60
+#: views/tab-content-optimize-db.php:142
+msgid "Update"
+msgstr ""
+
+#: views/tab-content-optimize-db.php:18
+msgid "Clean-up options"
+msgstr ""
+
+#: views/tab-content-optimize-db.php:25
+msgid "Clean draft posts"
+msgstr ""
+
+#: views/tab-content-optimize-db.php:32
+msgid "Clean auto draft posts"
+msgstr ""
+
+#: views/tab-content-optimize-db.php:43
+msgid "Clean trash posts"
+msgstr ""
+
+#: views/tab-content-optimize-db.php:54
+msgid "Clean post revisions"
+msgstr ""
+
+#: views/tab-content-optimize-db.php:65
+msgid "Clean post meta data"
+msgstr ""
+
+#: views/tab-content-optimize-db.php:76
+msgid "Clean transient options"
+msgstr ""
+
+#: views/tab-content-optimize-db.php:87
+msgid "Clean trash comments"
+msgstr ""
+
+#: views/tab-content-optimize-db.php:98
+msgid "Clean spam comments"
+msgstr ""
+
+#: views/tab-content-optimize-db.php:109
+msgid "Enable automatic database optimisation"
+msgstr ""
+
+#: views/tab-content-optimize-db.php:117
+msgid "Daily"
+msgstr ""
+
+#: views/tab-content-optimize-db.php:118
+msgid "Weekly"
+msgstr ""
+
+#: views/tab-content-optimize-db.php:119
+msgid "Fortnightly"
+msgstr ""
+
+#: views/tab-content-optimize-db.php:120
+msgid "Monthly"
+msgstr ""
+
+#: views/tab-content-optimize-db.php:126
+msgid "Action"
+msgstr ""
+
+#: views/tab-content-optimize-db.php:130
+msgid "Optimise database"
+msgstr ""
+
+#: views/tab-content-optimize-db.php:136
+#, php-format
+msgid ""
+"Tables using the INNODB engine (%1$s) will not be optimized.%2$sOther tables "
+"will be optimized (%3$s)"
+msgstr ""

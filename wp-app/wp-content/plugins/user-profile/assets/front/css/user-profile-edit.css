@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+.user-profile-edit{
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.user-profile-edit section {
+	background: #f3f3f399;
+	padding: 20px 20px;
+	margin: 20px 0;
+}
+
+.user-profile-edit .section-title{
+	margin-bottom: 20px;
+}
+.user-profile-edit .section-field label{
+	width: 20%;
+	min-width: 180px;
+	cursor: pointer;
+}
+.user-profile-edit .section-field input, 
+.user-profile-edit .section-field select, 
+.user-profile-edit .section-field textarea{
+    min-width: 200px;
+    width: 25%;
+}
+.user-profile-edit section .section-field textarea{
+	width: 75%;
+	max-width: 75%;
+	min-height: 120px;
+}
+
+.user-profile-edit .item {
+	margin: 15px 0;
+	background: #ddd6;
+	padding: 10px 10px;
+}
+.user-profile-edit .item .meta {
+	margin-right: 10px;
+}
+.user-profile-edit .item .remove {
+	background: #f36d41;
+	padding: 2px 8px;
+	color: #fff;
+	cursor: pointer;
+}
+.user-profile-edit .item .move {
+	background: #41c7f3;
+	padding: 2px 8px;
+	color: #fff;
+	cursor: move;
+}
+
+

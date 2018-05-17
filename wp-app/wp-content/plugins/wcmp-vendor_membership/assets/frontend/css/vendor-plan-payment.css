@@ -1,0 +1,46 @@
+.billing-content {
+    width: 60%;
+    float: left;
+    padding: 0 20px 0 0;
+}
+.billing-content input, select {
+    width: 100%;
+}
+.payment-content {
+    width: 40%;
+    float: left;
+}
+.payment-content input, select {
+    width: 100%;
+}
+@media (max-width: 767px){
+    .billing-content, .payment-content{
+        width: 100%;
+    }
+}
+.payment-content input[type=radio]{
+    width: auto;
+    margin-top: 6px;
+}
+.method-container {
+    width: 100%;
+    padding: 10px 5px 10px 5px;
+    background: #F5F5F5;
+    margin: 0 0 10px 0;
+}
+
+ul.wvn-payment-error {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+ul.wvn-payment-error li{
+    padding: 10px;
+    background: #e2401c;
+    color: #fff;
+    border-radius: 3px;
+    font-size: 16px;
+    border-left: 5px solid #c32a07;
+    margin-bottom: 5px;
+}

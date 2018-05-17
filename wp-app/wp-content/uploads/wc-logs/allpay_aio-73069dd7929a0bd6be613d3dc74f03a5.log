@@ -1,0 +1,21 @@
+03-22-2018 @ 11:00:07 - Generating payment form for order #571. Notify URL: http://192.168.0.111/wc-api/WC_innovext_allpay_aio/
+03-22-2018 @ 11:00:07 - Item Name : Curabitur lobortis. x 1#BABA G x 1
+03-22-2018 @ 11:00:07 - POST to Allpay Args : 
+Array
+(
+    [MerchantID] => 2000132
+    [MerchantTradeNo] => WC571TS7067861251
+    [MerchantTradeDate] => 2018/03/22 11:00:07
+    [PaymentType] => aio
+    [TotalAmount] => 165
+    [TradeDesc] => CEP
+    [ItemName] => Curabitur lobortis. x 1#BABA G x 1
+    [ChoosePayment] => Credit
+    [ReturnURL] => http://192.168.0.111/wc-api/WC_innovext_allpay_aio/
+    [PaymentInfoURL] => http://192.168.0.111/wc-api/WC_innovext_allpay_aio/
+    [ClientBackURL] => http://192.168.0.111/checkout/order-received/571/?key=wc_order_5ab31c35cf7b2
+    [OrderResultURL] => http://192.168.0.111/checkout/order-received/571/?key=wc_order_5ab31c35cf7b2
+    [Language] => ENG
+    [CheckMacValue] => BDB060301BBC9B6FDC38943F0D936EAF
+)
+

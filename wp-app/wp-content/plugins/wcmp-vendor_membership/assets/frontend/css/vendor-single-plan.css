@@ -1,0 +1,57 @@
+.vendortype .wcmp-plan-images{
+    float: left;
+    max-width: 300px;
+}
+.vendortype .entry-summary{
+    float: left;
+    padding: 0 0 0 50px;
+    width: calc(100% - 300px);
+}
+.vendortype .wcmp-plan-price{
+    font-weight: bold;
+}
+.vendortype .description{
+    padding: 20px 0 0 0;
+}
+.vendortype .subscription-container{
+    margin: 20px 0 0 0;
+}
+
+@media(max-width: 910px){
+.vendortype .wcmp-plan-images {
+    float: left;
+    max-width: 25%;
+    margin: 20px 3%;
+}
+.vendortype .wcmp-plan-images img {
+    max-width: 100%;
+}
+
+.vendortype .summary.entry-summary{
+    width: 60%;
+    padding-left: 5%;
+    margin: 20px 3%;
+}
+
+}
+
+@media(max-width: 600px){
+.vendortype .wcmp-plan-images {
+    float: none;
+    max-width: 90%;
+    text-align: center;
+    width: 90%;
+    margin: 20px auto; 
+}
+
+.vendortype .summary.entry-summary{
+    width: 90%;
+    padding-left: 0;
+    margin: 20px auto;
+    float: none;
+}
+
+}
+
+
+

@@ -1,0 +1,3 @@
+May 17 2018 04:00:07
+{"type":8,"message":"session_start(): A session had already been started - ignoring","file":"\/var\/www\/html\/wp-content\/plugins\/reward-points-for-woocommerce\/phoen_reward_points.php","line":528}
+

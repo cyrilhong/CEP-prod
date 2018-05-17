@@ -1,0 +1,82 @@
+# Copyright (C) 2016 Miguel Sirvent
+# This file is distributed under the same license as the Sigami Livereload package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Sigami Livereload 1.0.6\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/sigami-livereload\n"
+"POT-Creation-Date: 2016-06-28 00:22:59+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Miguel Sirvent <miguel@sigami.net>\n"
+"Language-Team: Miguel Sirvent <miguel@sigami.net>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-Wpheader: sigami-livereload/.php\n"
+
+#: sigami-livereload-admin.php:172
+msgid "General options"
+msgstr ""
+
+#: sigami-livereload-admin.php:173
+msgid "Port"
+msgstr ""
+
+#: sigami-livereload-admin.php:174
+msgid "Host"
+msgstr ""
+
+#: sigami-livereload-admin.php:175
+msgid "In frontend"
+msgstr ""
+
+#: sigami-livereload-admin.php:176
+msgid "In admin"
+msgstr ""
+
+#: sigami-livereload-admin.php:177
+msgid "In footer"
+msgstr ""
+
+#: sigami-livereload-admin.php:186
+msgid "Restore default values?"
+msgstr ""
+
+#: sigami-livereload-admin.php:188
+msgid "Restore defaults"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Sigami Livereload"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/sigami/sigami-livereload"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Adds livereload scripts on front end or admin. With options to change host "
+"and port."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Miguel Sirvent"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://wordpress.org/poxtron"
+msgstr ""

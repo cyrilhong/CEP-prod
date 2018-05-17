@@ -1,0 +1,491 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Plugin Engine\n"
+"POT-Creation-Date: 2017-06-14 16:13-0400\n"
+"PO-Revision-Date: 2017-06-14 16:13-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: pngx-common.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: .git\n"
+"X-Poedit-SearchPathExcluded-2: vendor\n"
+"X-Poedit-SearchPathExcluded-3: node_modules\n"
+"X-Poedit-SearchPathExcluded-4: languages\n"
+"X-Poedit-SearchPathExcluded-5: src/resources\n"
+
+#: src/Pngx/Admin/Ajax.php:35
+msgid "A Permission Error has occurred. Please save, reload, and try again."
+msgstr ""
+
+#: src/Pngx/Admin/Ajax.php:40 src/Pngx/Admin/Ajax.php:128
+#: src/Pngx/Admin/Ajax.php:133 src/Pngx/Admin/Ajax.php:229
+#: src/Pngx/Admin/Ajax.php:234
+msgid "Permission Error has occurred. Please save, reload, and try again."
+msgstr ""
+
+#: src/Pngx/Admin/Ajax.php:44
+msgid "No Template ID. Please save, reload, and try again."
+msgstr ""
+
+#: src/Pngx/Admin/Ajax.php:137 src/Pngx/Admin/Ajax.php:238
+msgid "No Field ID. Please save, reload, and try again."
+msgstr ""
+
+#: src/Pngx/Admin/Ajax.php:141
+msgid "No Option ID. Please save, reload, and try again."
+msgstr ""
+
+#: src/Pngx/Admin/Ajax.php:246
+msgid "No Section Number Provided."
+msgstr ""
+
+#: src/Pngx/Admin/Ajax.php:250
+msgid "No Column Number Provided."
+msgstr ""
+
+#: src/Pngx/Admin/Ajax.php:263
+msgid "No Field Exists."
+msgstr ""
+
+#: src/Pngx/Admin/Assets.php:116 src/Pngx/Admin/Support.php:28
+msgid "Copy to clipboard"
+msgstr ""
+
+#: src/Pngx/Admin/Assets.php:117
+msgid "System info copied"
+msgstr ""
+
+#: src/Pngx/Admin/Assets.php:118
+msgid "Press \"Cmd + C\" to copy"
+msgstr ""
+
+#: src/Pngx/Admin/EDD_License.php:208
+msgid "Incorrect Permissions!"
+msgstr ""
+
+#: src/Pngx/Admin/EDD_License.php:212
+msgid "No Data!"
+msgstr ""
+
+#: src/Pngx/Admin/EDD_License.php:218
+msgid "Missing Required Fields"
+msgstr ""
+
+#: src/Pngx/Admin/EDD_License.php:222
+msgid "Incorrect Capabilities!"
+msgstr ""
+
+#: src/Pngx/Admin/EDD_License.php:319 src/Pngx/Admin/EDD_License.php:441
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: src/Pngx/Admin/EDD_License.php:324
+msgid "License status has not changed with the license server."
+msgstr ""
+
+#: src/Pngx/Admin/EDD_License.php:380
+#: src/Pngx/Admin/Field/License_Status.php:35
+#: src/Pngx/Admin/Plugin_License_List.php:127
+#, php-format
+msgid " and Expires on %s"
+msgstr "e expira em %s"
+
+#: src/Pngx/Admin/EDD_License.php:384
+msgid "License Saved and Valid"
+msgstr ""
+
+#: src/Pngx/Admin/EDD_License.php:387
+#: src/Pngx/Admin/Field/License_Status.php:43
+#: src/Pngx/Admin/Plugin_License_List.php:194
+msgid "License is Active"
+msgstr "A Chave de Licença está Ativa."
+
+#: src/Pngx/Admin/EDD_License.php:418
+msgid "License Deactivated"
+msgstr ""
+
+#: src/Pngx/Admin/EDD_License.php:420
+msgid "Click Activate License to enable automatic updates."
+msgstr ""
+
+#: src/Pngx/Admin/EDD_License.php:426
+msgid ""
+"License Deactivated locally, it could not be deactivated with the server due "
+"to:"
+msgstr ""
+
+#: src/Pngx/Admin/EDD_License.php:451
+#: src/Pngx/Admin/Field/License_Status.php:54
+#: src/Pngx/Admin/Plugin_License_List.php:205
+#, php-format
+msgid "License Expired on %s"
+msgstr "Licença expirou em %s"
+
+#: src/Pngx/Admin/EDD_License.php:456
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: src/Pngx/Admin/EDD_License.php:461
+msgid "Invalid license."
+msgstr ""
+
+#: src/Pngx/Admin/EDD_License.php:466
+msgid "Your license is invalid."
+msgstr ""
+
+#: src/Pngx/Admin/EDD_License.php:471
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: src/Pngx/Admin/EDD_License.php:476
+#, php-format
+msgid "This appears to be for another plugin and invalid license key for %s."
+msgstr ""
+
+#: src/Pngx/Admin/EDD_License.php:481
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: src/Pngx/Admin/EDD_License.php:486
+msgid ""
+"Your license cannot be activated or deactivated, please confirm in your "
+"accoint it is active."
+msgstr ""
+
+#: src/Pngx/Admin/EDD_License.php:495
+#: src/Pngx/Admin/Field/License_Status.php:56
+#: src/Pngx/Admin/Plugin_License_List.php:207
+msgid "License is Not Active"
+msgstr "Licença não está ativa"
+
+#: src/Pngx/Admin/EDD_Plugin_Updater.php:199
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+
+#: src/Pngx/Admin/EDD_Plugin_Updater.php:201
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s "
+"or %5$supdate now%6$s."
+msgstr ""
+
+#: src/Pngx/Admin/EDD_Plugin_Updater.php:385
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: src/Pngx/Admin/EDD_Plugin_Updater.php:385
+msgid "Error"
+msgstr ""
+
+#: src/Pngx/Admin/Field/Date.php:42
+msgid "Today's Date is "
+msgstr "Data de hoje é"
+
+#: src/Pngx/Admin/Field/Icon.php:43
+#, php-format
+msgctxt "Icon Popup Header"
+msgid "%1s - %2s"
+msgstr ""
+
+#: src/Pngx/Admin/Field/Icon.php:49
+#, php-format
+msgctxt "Icon Popup Footer"
+msgid "%1s - %2s of %3s"
+msgstr ""
+
+#: src/Pngx/Admin/Field/Icon.php:50
+msgid "Search..."
+msgstr ""
+
+#: src/Pngx/Admin/Field/License_Status.php:47
+#: src/Pngx/Admin/Plugin_License_List.php:189
+msgid "Deactivate License"
+msgstr "Desativar licença"
+
+#: src/Pngx/Admin/Field/License_Status.php:52
+#: src/Pngx/Admin/Plugin_License_List.php:203
+msgid "License is Invalid"
+msgstr "Esta licença não é válida"
+
+#: src/Pngx/Admin/Field/License_Status.php:63
+#: src/Pngx/Admin/Plugin_License_List.php:220
+msgid "Activate License"
+msgstr "Ativar a Licença"
+
+#: src/Pngx/Admin/Help.php:122
+msgid "Video Guides"
+msgstr "Guias de vídeo"
+
+#: src/Pngx/Admin/Help.php:137
+msgid "Guides"
+msgstr "Guias"
+
+#: src/Pngx/Admin/Meta.php:57
+#, php-format
+msgid ""
+"There maybe a javascript conflict preventing some features from working.  <a "
+"href=\"%s\" target=\"_blank\" >Please check this guide to narrow down the "
+"cause.</a>"
+msgstr ""
+"Há talvez um conflito de javascript, impedindo que alguns recursos "
+"funcionem  <a href=\"%s\" target=\"_blank\">Por favor, verifique este guia "
+"para diminuir a causa.</a>"
+
+#: src/Pngx/Admin/Meta.php:106
+msgid "Content"
+msgstr "Conteudo"
+
+#: src/Pngx/Admin/Options.php:347
+msgid "Save Changes"
+msgstr "Salvar alerações"
+
+#: src/Pngx/Admin/Plugin_License_List.php:34
+msgid "Please deactivate the license key to deactivate this plugin"
+msgstr ""
+
+#: src/Pngx/Admin/Plugin_License_List.php:100
+msgid "Enter License Key"
+msgstr ""
+
+#: src/Pngx/Admin/Plugin_License_List.php:106
+msgid "License Key"
+msgstr ""
+
+#: src/Pngx/Admin/Style/Linked.php:24
+msgid "Field Styles"
+msgstr ""
+
+#: src/Pngx/Admin/Support.php:139
+msgid "English"
+msgstr ""
+
+#: src/Pngx/Admin/Support.php:177 src/Pngx/Admin/Support.php:179
+msgid "Unknown or not set"
+msgstr ""
+
+#: src/Pngx/Admin/Support.php:568
+msgid "Unknown"
+msgstr ""
+
+#: src/Pngx/Admin/Support.php:594
+msgid "Not Found"
+msgstr ""
+
+#: src/Pngx/Cron_20.php:35
+msgid "Once Every 20 Mins"
+msgstr ""
+
+#: src/Pngx/Register_Post_Type.php:55
+#, php-format
+msgid "%s updated. <a href=\"%s\">View %s</a>"
+msgstr "%s atualizado. <a href=\"%s\">Veja %s</a>"
+
+#: src/Pngx/Register_Post_Type.php:56
+msgid "Custom field updated."
+msgstr "Cor do campo de oferta"
+
+#: src/Pngx/Register_Post_Type.php:57
+msgid "Custom field deleted."
+msgstr "Campo personalizado deletado."
+
+#: src/Pngx/Register_Post_Type.php:58
+#, php-format
+msgid "%s updated."
+msgstr "e expira em %s"
+
+#: src/Pngx/Register_Post_Type.php:59
+#, php-format
+msgid "%s restored to revision from %s"
+msgstr "%s restaurado da revisão de %s"
+
+#: src/Pngx/Register_Post_Type.php:60
+#, php-format
+msgid "%s published. <a href=\"%s\">View %s</a>"
+msgstr "%s publicado. <a href=\\”%s\\”>Ver %s </a>"
+
+#: src/Pngx/Register_Post_Type.php:61
+#, php-format
+msgid "%s saved."
+msgstr "Licença expirou em %s"
+
+#: src/Pngx/Register_Post_Type.php:62
+#, php-format
+msgid "%s submitted. <a target=\"_blank\" href=\"%s\">Preview %s</a>"
+msgstr "%s enviado. <a target=“_blank” href=“%s”>Pré-visualizar %s</a>"
+
+#: src/Pngx/Register_Post_Type.php:63
+#, php-format
+msgid ""
+"%s scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview %s</a>"
+msgstr ""
+"%s agendado para: <strong>%1$s</strong>. <a target=\\\"_blank\\\" href=\\"
+"\"%2$s\\\">Pré-visualizar </a>"
+
+#: src/Pngx/Register_Post_Type.php:63
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: src/Pngx/Register_Post_Type.php:64
+#, php-format
+msgid "%s draft updated. <a target=\"_blank\" href=\"%s\">Preview %s</a>"
+msgstr ""
+"Rascunho de %s atualizado. <a target=\\”_blank\\” href=\\”%s\\”>Pré-"
+"visualizar  %s </a>"
+
+#: src/Pngx/Register_Post_Type.php:109 src/Pngx/Register_Post_Type.php:110
+#: src/Pngx/Register_Post_Type.php:111 src/Pngx/Register_Post_Type.php:112
+#: src/Pngx/Register_Post_Type.php:151 src/Pngx/Register_Taxonomy.php:30
+#: src/Pngx/Register_Taxonomy.php:31 src/Pngx/Register_Taxonomy.php:40
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: src/Pngx/Register_Post_Type.php:113
+msgid "Add New"
+msgstr "Adicionar Novo"
+
+#: src/Pngx/Register_Post_Type.php:114 src/Pngx/Register_Taxonomy.php:38
+#, php-format
+msgid "Add New %s"
+msgstr "Adicionar Novo %s"
+
+#: src/Pngx/Register_Post_Type.php:115 src/Pngx/Register_Taxonomy.php:36
+#, php-format
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#: src/Pngx/Register_Post_Type.php:116
+#, php-format
+msgid "New %s"
+msgstr "Novo %s"
+
+#: src/Pngx/Register_Post_Type.php:117
+#, php-format
+msgid "View %s"
+msgstr "e expira em %s"
+
+#: src/Pngx/Register_Post_Type.php:118 src/Pngx/Register_Taxonomy.php:32
+#, php-format
+msgid "Search %s"
+msgstr "Buscar %s"
+
+#: src/Pngx/Register_Post_Type.php:119
+#, php-format
+msgid "No %s found"
+msgstr "Nenhum %s encontrado"
+
+#: src/Pngx/Register_Post_Type.php:120
+#, php-format
+msgid "No %s found in Trash"
+msgstr "Licença expirou em %s"
+
+#: src/Pngx/Register_Post_Type.php:121 src/Pngx/Register_Taxonomy.php:34
+#, php-format
+msgid "Parent %s"
+msgstr "Matriz %s"
+
+#: src/Pngx/Register_Post_Type.php:122 src/Pngx/Register_Taxonomy.php:33
+#, php-format
+msgid "All %s"
+msgstr "e expira em %s"
+
+#: src/Pngx/Register_Post_Type.php:123 src/Pngx/Register_Taxonomy.php:37
+#, php-format
+msgid "Update %s"
+msgstr "Atualizar %s"
+
+#: src/Pngx/Register_Post_Type.php:124
+#, php-format
+msgid "%s Archives"
+msgstr "Licença expirou em %s"
+
+#: src/Pngx/Register_Post_Type.php:125
+#, php-format
+msgid "Insert into %s"
+msgstr "Inserir %s"
+
+#: src/Pngx/Register_Post_Type.php:126
+#, php-format
+msgid "Uploaded to this %s"
+msgstr "Licença expirou em %s"
+
+#: src/Pngx/Register_Post_Type.php:127
+#, php-format
+msgid "%s list"
+msgstr "Licença expirou em %s"
+
+#: src/Pngx/Register_Post_Type.php:128
+#, php-format
+msgid "%s list navigation"
+msgstr "Licença expirou em %s"
+
+#: src/Pngx/Register_Post_Type.php:129
+#, php-format
+msgid "Filter %s list"
+msgstr "Lista de filtros de %s"
+
+#: src/Pngx/Register_Post_Type.php:152
+#, php-format
+msgid "Creates a %s Custom Post Type"
+msgstr "Cria um tipo de Post personalizado de %s"
+
+#: src/Pngx/Register_Taxonomy.php:35
+#, php-format
+msgid "Parent %s:"
+msgstr "Matriz %s:"
+
+#: src/Pngx/Register_Taxonomy.php:39
+#, php-format
+msgid "New %s Name"
+msgstr "Novo %s Nome"
+
+#: src/Pngx/Register_Taxonomy.php:41
+#, php-format
+msgid "Popular %s"
+msgstr "Licença expirou em %s"
+
+#: src/Pngx/Register_Taxonomy.php:42
+#, php-format
+msgid "Separate %s with commas"
+msgstr "Separar %s por vírgulas"
+
+#: src/Pngx/Register_Taxonomy.php:43
+#, php-format
+msgid "Add or remove %s"
+msgstr "Adicionar ou remover %s"
+
+#: src/Pngx/Register_Taxonomy.php:44
+#, php-format
+msgid "Choose from the most used %s"
+msgstr "Escolher entre os mais utilizados %s"
+
+#. Plugin Name of the plugin/theme
+msgid "Plugin Engine"
+msgstr "Plugin Engine"
+
+#. Description of the plugin/theme
+msgid "A plugin framework to be embeded in the core plugin"
+msgstr "Um quadro de plugin para ser embeded no núcleo plugin"
+
+#. Author of the plugin/theme
+msgid "Jessee Productions, LLC"
+msgstr "Jessee Productions, LLC"
+
+#. Author URI of the plugin/theme
+msgid "https://jesseeproductions.com/"
+msgstr "https://jesseeproductions.com/"
