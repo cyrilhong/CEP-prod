@@ -4,7 +4,7 @@ pipeline {
     stage('ssh connect') {
       steps {
         sh '''cd ~/
-ssh -t -t -i "tomcat-demo.pem" ec2-user@ec2-13-251-112-45.ap-southeast-1.compute.amazonaws.com'''
+ssh -tt -i "tomcat-demo.pem" ec2-user@ec2-13-251-112-45.ap-southeast-1.compute.amazonaws.com $cmd'''
       }
     }
     stage('pull') {
