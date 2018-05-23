@@ -5,7 +5,7 @@ services:
     image: wordpress:latest # https://hub.docker.com/_/wordpress/
     # image: cyrilhon/wp-cep:latest # https://hub.docker.com/_/wordpress/
     ports:
-      - 80:80 # change ip if required
+        - 127.0.0.1:80:80 # change ip if required
       # - "4000:80"
     volumes:
       - ./config/php.conf.uploads.ini:/usr/local/etc/php/conf.d/uploads.ini
@@ -25,7 +25,7 @@ services:
     image: mysql:latest # https://hub.docker.com/_/mysql/ - or mariadb https://hub.docker.com/_/mariadb
     # image: cyrilhon/mysql-cep:latest # https://hub.docker.com/_/mysql/ - or mariadb https://hub.docker.com/_/mariadb
     ports:
-      - 3306:3306 # change ip if required
+      - 127.0.0.1:3306:3306 # change ip if required
     command: [
         '--default_authentication_plugin=mysql_native_password',
         '--character-set-server=utf8mb4',
