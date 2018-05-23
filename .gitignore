@@ -1,3 +1,6 @@
 wp-app/wp-content/plugins/all-in-one-wp-migration/storage/*.
 *.log
+<<<<<<< HEAD
 ~/.DS_store
+=======
+>>>>>>> 284fcac75617336267ed8c9002074697b83a96fd
