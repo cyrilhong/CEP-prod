@@ -1,0 +1,3 @@
+wp-app/wp-content/plugins/all-in-one-wp-migration/storage/*.
+*.log
+~/.DS_store
